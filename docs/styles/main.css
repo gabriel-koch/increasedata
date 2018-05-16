@@ -51,3 +51,15 @@ nav ul li a{
 footer {
     clear: both;
 }
+
+.darkBG {
+    background: #333
+}
+
+.darkerBG {
+    background: #666;
+}
+
+.darkestBG {
+    background: #999;
+}
